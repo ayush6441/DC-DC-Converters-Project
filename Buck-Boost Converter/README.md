@@ -1,34 +1,20 @@
 # Buck-Boost Converter Project
 
-This repository contains the implementation of our group project on designing and simulating a **Buck-Boost Converter**. The project was developed as part of our academic curriculum to explore and understand the principles of power electronics.
-
-## Team Members
-- Ayush Sharma  
-- Istakhar Ahmed  
-- Soumyadeep Ghosh  
-- Ayush Ranjan  
-- Raj Kumar  
-- Manu  
+This repository contains the design and simulation details for the **Buck-Boost Converter**.
 
 ## Brief Description of the Buck-Boost Converter
-A **Buck-Boost Converter** is a type of DC-DC power converter that can either step up or step down the input voltage to provide a stable output voltage. It operates by controlling the energy stored in an inductor, which allows it to handle both situations—when the input voltage is higher or lower than the desired output voltage.
+A **Buck-Boost Converter** is a type of DC-DC converter that can either step up or step down the input voltage to provide a stable output voltage. It works by controlling the energy stored in an inductor, enabling the converter to handle both situations—when the input voltage is higher or lower than the required output voltage.
+
+This flexibility makes the Buck-Boost Converter highly useful in applications where the input voltage can vary above or below the desired output level. It is commonly used in battery-powered systems, voltage regulators, and other applications where a stable output is required regardless of input voltage fluctuations.
 
 ### Key Features:
-- **Voltage Regulation:** Can step up or step down the input DC voltage to a required output voltage.  
-- **Wide Applications:** Used in power supplies, battery management systems, and scenarios requiring both voltage increase and decrease.  
-
-## Goals of the Project
-1. Design a Buck-Boost converter circuit with theoretical calculations.  
-2. Simulate the circuit to validate its operation under different conditions.  
-3. Demonstrate the functionality of the hardware model and compare it with simulation results.  
+- **Voltage Regulation:** Can step up or step down the input DC voltage to a required output voltage.
+- **Dual Functionality:** Handles both voltage step-up and step-down operations with high efficiency.
+- **Wide Applications:** Used in battery management systems, renewable energy systems, and other applications requiring stable output despite input variations.
 
 ## Repository Overview
 This repository includes:
-- **Detailed Project File:** Includes theoretical explanations, observations, and conclusions.  
-- **Images:** Photos of the hardware model.  
-- **MATLAB Simulations:** Simulation files and their screenshots.  
-- **Schematic File:** Circuit schematic used for the hardware design.  
-
----
-
-Stay tuned for detailed updates and resources that will be added to the repository.
+- **Detailed Project File:** Includes theoretical explanations, observations, and conclusions.
+- **Images:** Photos of the hardware model.
+- **MATLAB Simulations:** Simulation files and their screenshots.
+- **Schematic File:** Circuit schematic used for the hardware design.
