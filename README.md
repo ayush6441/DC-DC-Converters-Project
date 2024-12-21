@@ -1,4 +1,5 @@
-## DC-DC Converter Project
+# DC-DC Converter Project #
+
 
 This repository is a combination of three different DC-DC converter projects: **Boost Converter**, **Buck Converter**, and **Buck-Boost Converter**. These projects were developed as part of our academic curriculum to explore and understand the principles of power electronics.
 
