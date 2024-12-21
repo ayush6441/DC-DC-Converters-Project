@@ -11,7 +11,7 @@ This repository contains the implementation of our group project on designing an
 - Manu  
 
 ## Brief Description of the Buck Converter
-A **Buck Converter** is a type of DC-DC power converter that steps down the input voltage to a lower output voltage. It works by switching a transistor on and off, storing energy in an inductor during the "on" phase and releasing it during the "off" phase, thereby regulating the output voltage.
+A **Buck Converter** is a type of DC-DC power converter that steps down the input voltage to a lower output voltage. It works by switching a MosFET or controlled switch on and off, storing energy in an inductor during the "on" phase and releasing it during the "off" phase, thereby regulating the output voltage.
 
 ### Key Features:
 - Voltage Step-Down: Converts a higher input DC voltage to a lower output DC voltage.  
