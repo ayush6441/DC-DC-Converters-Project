@@ -2,14 +2,6 @@
 
 This repository contains the implementation of our group project on designing and simulating a **Boost Converter**. The project was developed as part of our academic curriculum to explore and understand the principles of power electronics.
 
-## Team Members
-- Ayush Sharma  
-- Istakhar Ahmed  
-- Soumyadeep Ghosh  
-- Ayush Ranjan  
-- Raj Kumar  
-- Manu  
-
 ## Brief Description of the Boost Converter
 A **Boost Converter** is a type of DC-DC power converter that steps up the input voltage to a higher output voltage. It operates using the principles of energy storage in an inductor during the "on" phase of a switch and energy transfer to the load during the "off" phase.
 
