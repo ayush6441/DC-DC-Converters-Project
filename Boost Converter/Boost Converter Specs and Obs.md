@@ -19,7 +19,10 @@ The following components were used in the hardware implementation of the Boost C
   A **10kΩ carbon film resistor**, commonly identified by its **color-coded bands**, was used as the load resistance. 
 
 - **MOSFET:**  
-  An **N-type MOSFET (IRFZ44N)** was used to control the switching operation of the converter.  
+  An **N-type MOSFET (IRFZ44N)** was used to control the switching operation of the converter.
+
+- **Diode:**  
+  An **IN4007** general-purpose rectifier diode was used in the circuit. This diode is capable of withstanding a peak reverse voltage of 1000V and a maximum forward current of 1A
 
 - **PWM Circuit:**  
   The gate pulse for the MOSFET was generated using a **555 timer-based PWM circuit**. While the exact duty cycle could not be measured due to the unavailability of suitable equipment, the values in the table are calculated theoretically.  
