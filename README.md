@@ -5,7 +5,7 @@ This repository is a combination of three different DC-DC converter projects: **
 
 ## Team Members
 - Ayush Sharma  
-- Istakhar Ahmed  
+- Istakhar Ahamad  
 - Soumyadeep Ghosh  
 - Ayush Ranjan  
 - Raj Kumar
