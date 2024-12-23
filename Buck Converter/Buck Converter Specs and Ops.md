@@ -57,5 +57,3 @@ The input voltage (Vs) was constant at **9V** for all measurements. The output v
 4. Proper selection of inductor and capacitor values ensures stable operation and efficient voltage regulation.  
 
 ---
-
-This file provides a comprehensive overview of the components used, recorded readings, and observations from the Buck Converter experiment, highlighting its stable and efficient operation under varying duty cycle conditions.
