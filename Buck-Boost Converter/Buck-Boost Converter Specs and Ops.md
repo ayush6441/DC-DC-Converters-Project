@@ -7,9 +7,9 @@ The following components were used in the hardware implementation of the Buck-Bo
 - **Battery: 9V**  
   A **Super Heavy Duty 1604S 6F22 9V battery** was used as the input voltage source.  
 
-- **Inductor: 5mH**  
+- **Inductor: 20mH**  
   The inductor was custom-made using a **ferrite toroid core** with a relative permittivity of approximately 6.  
-  - The core was wound with **48 turns** of thin copper wire, approximately **0.2 mm in diameter**.  
+  - The core was wound with **38 turns** of thin copper wire, approximately **0.3 mm in diameter**.  
   - The wire type is common **enameled copper wire**.
 
 - **Capacitor: 47µF**  
