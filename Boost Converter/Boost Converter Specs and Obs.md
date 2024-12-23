@@ -65,5 +65,3 @@ The input voltage (Vs) was constant at **9V** for all measurements. The output v
 5. There are heating losses in the MOSFET and inductor during prolonged use, and no heat sinks have been incorporated to manage these losses, which may affect the efficiency and longevity of the components.
 
 ---
-
-This file provides a detailed overview of the components used, the recorded readings, and observations from the Boost Converter experiment, offering a comprehensive understanding of its design and performance.
