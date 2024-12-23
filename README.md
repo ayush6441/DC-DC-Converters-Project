@@ -8,7 +8,8 @@ This repository is a combination of three different DC-DC converter projects: **
 - Istakhar Ahmed  
 - Soumyadeep Ghosh  
 - Ayush Ranjan  
-- Raj Kumar  
+- Raj Kumar
+- Himanshu 
 - Manu  
 
 ## Repository Overview
