@@ -22,7 +22,7 @@ The following components were used in the hardware implementation of the Buck Co
   An **N-type MOSFET (IRFZ44N)** was used to control the switching operation of the converter.  
 
 - **Diode:**  
-  An **IN4007 general-purpose rectifier diode** was used in the circuit. It ensures unidirectional current flow, allowing energy to be delivered to the load when the MOSFET is off. The diode's specifications include a peak reverse voltage of **1000V** and a maximum forward current of **1A**, which are sufficient for the requirements of this converter.
+  An IN4007 general-purpose rectifier diode was used in the circuit. This diode is capable of withstanding a peak reverse voltage of 1000V and a maximum forward current of 1A
 
 - **PWM Circuit:**  
   The gate pulse for the MOSFET was generated using a **555 timer-based PWM circuit**. The duty cycle values were calculated theoretically as no equipment was available for direct measurement.
