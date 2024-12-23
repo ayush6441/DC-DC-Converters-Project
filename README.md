@@ -4,13 +4,14 @@
 This repository is a combination of three different DC-DC converter projects: **Boost Converter**, **Buck Converter**, and **Buck-Boost Converter**. These projects were developed as part of our academic curriculum to explore and understand the principles of power electronics.
 
 ## Team Members
-- Ayush Sharma  
-- Istakhar Ahamad  
-- Soumyadeep Ghosh  
-- Ayush Ranjan  
+- Manu **(Team Lead)**
 - Raj Kumar
-- Himanshu Gautam 
-- Manu  
+- Ayush Ranjan 
+- Ayush Sharma  
+- Istakhar Ahamad
+- Himanshu Gautam  
+- Soumyadeep Ghosh  
+  
 
 ## Repository Overview
 This repository includes the designs, simulations, and hardware implementations for three types of DC-DC converters:
