@@ -9,7 +9,7 @@ This repository is a combination of three different DC-DC converter projects: **
 - Soumyadeep Ghosh  
 - Ayush Ranjan  
 - Raj Kumar
-- Himanshu 
+- Himanshu Gautam 
 - Manu  
 
 ## Repository Overview
